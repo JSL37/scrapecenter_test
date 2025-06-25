@@ -63,3 +63,5 @@ if __name__ == "__main__":
 
 # print(response.text)
 # print(response)
+# git config --global user.name "JSL37"
+# git config --global user.email "1475571275@qq.com"
